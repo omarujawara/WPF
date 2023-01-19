@@ -6,7 +6,7 @@
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     x:Name="Window" 
-    Title="Main Window" Width="750" Height="500" WindowStartupLocation="CenterScreen">
+    Title="Gid" Width="750" Height="500" WindowStartupLocation="CenterScreen">
     
 
     <Grid ShowGridLines="True">
